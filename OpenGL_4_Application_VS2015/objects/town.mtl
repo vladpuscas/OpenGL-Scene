@@ -1,0 +1,337 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.12.2016 13:03:14
+
+newmtl white_plywood
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\house2\PlywoodPainted0043_S.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\house2\PlywoodPainted0043_S.jpg
+
+newmtl wooden_planks1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\house2\WoodPlanksBare0051_1_S.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\house2\WoodPlanksBare0051_1_S.jpg
+
+newmtl wire_006134006
+	Ns 32.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0235 0.5255 0.0235
+	Kd 0.0235 0.5255 0.0235
+	Ks 0.3500 0.3500 0.3500
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 08___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\house2\WoodRough0026_S.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\house2\WoodRough0026_S.jpg
+
+newmtl roof
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\house2\RooftilesWood0031_7_S.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\house2\RooftilesWood0031_7_S.jpg
+
+newmtl wood_rough1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\house2\WoodRough0049_1_S.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\house2\WoodRough0049_1_S.jpg
+
+newmtl plywood_painted
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\house2\PlywoodPainted0005_S.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\house2\PlywoodPainted0005_S.jpg
+
+newmtl wood_floor
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\house2\WoodPlanksFloors0026_11_S.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\house2\WoodPlanksFloors0026_11_S.jpg
+
+newmtl wooden_planks2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\house2\WoodPlanksBare0051_1_S.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\house2\WoodPlanksBare0051_1_S.jpg
+
+newmtl metal_pipe
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\house2\metal.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\house2\metal.jpg
+
+newmtl glass1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\house2\glass.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\house2\glass.jpg
+
+newmtl Chapel_Mat_
+	Ns 0.0600
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1000 0.1000 0.1000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\chapel_obj\chapel_diffuse.tga
+	map_Kd C:\Users\Demon\Desktop\objects\chapel_obj\chapel_diffuse.tga
+	map_Ks C:\Users\Demon\Desktop\objects\chapel_obj\chapel_spec.tga
+	map_bump C:\Users\Demon\Desktop\objects\chapel_obj\chapel_normal.tga
+	bump C:\Users\Demon\Desktop\objects\chapel_obj\chapel_normal.tga
+
+newmtl 06___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\Wild West Saloon\saloon_defuse.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\Wild West Saloon\saloon_defuse.jpg
+
+newmtl Material__1698
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\Well_3ds\LIMESTO3.JPG
+	map_Kd C:\Users\Demon\Desktop\Well_3ds\LIMESTO3.JPG
+
+newmtl Material__1702
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd C:\Users\Demon\Desktop\Well_3ds\BUBING_2.GIF
+
+newmtl Material__1700
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\Well_3ds\BUBING_2.GIF
+	map_Kd C:\Users\Demon\Desktop\Well_3ds\BUBING_2.GIF
+
+newmtl Material__1701
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\Well_3ds\BUBING_2.GIF
+	map_Kd C:\Users\Demon\Desktop\Well_3ds\BUBING_2.GIF
+
+newmtl Material__1699
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\Well_3ds\BUBING_2.GIF
+	map_Kd C:\Users\Demon\Desktop\Well_3ds\BUBING_2.GIF
+
+newmtl Material__1697
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd C:\Users\Demon\Desktop\Well_3ds\SHING1.JPG
+
+newmtl 04___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\Wild West Hotel\hotel_defuse.jpg
+	map_Kd C:\Users\Demon\Desktop\objects\Wild West Hotel\hotel_defuse.jpg
+
+newmtl Marquis_props
+	Ns 96.0784
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6400 0.6400 0.6400
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\Marquis of Conyngham\Marquis_props_d.dds
+	map_Kd C:\Users\Demon\Desktop\objects\Marquis of Conyngham\Marquis_props_d.dds
+
+newmtl Marquis_scarf
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6400 0.6400 0.6400
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\Marquis of Conyngham\Marquis_scarf_d.dds
+	map_Kd C:\Users\Demon\Desktop\objects\Marquis of Conyngham\Marquis_scarf_d.dds
+
+newmtl Marquis_eyes
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6400 0.6400 0.6400
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\Marquis of Conyngham\Marquis_eye_d.dds
+	map_Kd C:\Users\Demon\Desktop\objects\Marquis of Conyngham\Marquis_eye_d.dds
+
+newmtl Marquis_body
+	Ns 96.0784
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6400 0.6400 0.6400
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Demon\Desktop\objects\Marquis of Conyngham\Marquis_body_d.dds
+	map_Kd C:\Users\Demon\Desktop\objects\Marquis of Conyngham\Marquis_body_d.dds

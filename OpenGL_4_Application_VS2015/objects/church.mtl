@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.12.2016 13:37:00
+
+newmtl Chapel_Mat_
+	Ns 0.0600
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1000 0.1000 0.1000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka textures\chapel_diffuse.tga
+	map_Kd textures\chapel_diffuse.tga
+	map_Ks textures\chapel_spec.tga
+	map_bump textures\chapel_normal.tga
+	bump textures\chapel_normal.tga
